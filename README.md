@@ -1,1 +1,1 @@
-# This is Nagios plugin for site checking using pycurl library
+This is Nagios plugin for site checking using pycurl library
